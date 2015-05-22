@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloTabWidget</string>
+    <string name="action_search"> AAAAAA </string>
+	<string name="action_help"> AAAAAA </string>
+	<string name="action_settings"> AAAAAA AAAAAAAAAAAAAAA</string>
+	<string name="action_get_all">Get All</string>
+	<string name="action_get_Nearest">Get Nearest</string>
+	<string name="action_get_ByCategory">Get By Category</string>
+	<string name="AddFavorite">Add To Favorites</string>
+	<string name="RemFavorite">Remove From Favorites</string>
+	
+
+</resources>
